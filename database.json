@@ -1,0 +1,172 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "Fiction"
+    },
+    {
+      "id": 2,
+      "name": "Mystery"
+    },
+    {
+      "id": 3,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 4,
+      "name": "Fantasy"
+    },
+    {
+      "id": 5,
+      "name": "Romance"
+    },
+    {
+      "id": 6,
+      "name": "Thriller"
+    },
+    {
+      "id": 7,
+      "name": "Horror"
+    },
+    {
+      "id": 8,
+      "name": "Biography"
+    },
+    {
+      "id": 9,
+      "name": "Historical Fiction"
+    },
+    {
+      "id": 10,
+      "name": "Adventure"
+    },
+    {
+      "id": 11,
+      "name": "Non-fiction"
+    },
+    {
+      "id": 12,
+      "name": "Young Adult"
+    },
+    {
+      "id": 13,
+      "name": "Science"
+    },
+    {
+      "id": 14,
+      "name": "Self-Help"
+    },
+    {
+      "id": 15,
+      "name": "Satire"
+    },
+    {
+      "id": 16,
+      "name": "Poetry"
+    },
+    {
+      "id": 17,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Religion"
+    },
+    {
+      "id": 19,
+      "name": "Philosophy"
+    },
+    {
+      "id": 20,
+      "name": "Travel"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "phone": "6165897524"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "phone": "6158963202"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "phone": "6157894587"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "phone": "6169782235"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "david.wilson@example.com",
+      "phone": "4042561478"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Brown",
+      "email": "sophia.brown@example.com",
+      "phone": "2028675309"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Wanderer",
+      "author": "Sharon Creech",
+      "genreId": 10,
+      "description": "Thirteen-year-old Sophie hears the sea calling, promising adventure and a chance for discovery as she sets sail for England with her three uncles and two cousins. Sophie's cousin Cody isn't so sure he has the strength to prove himself to the crew and to his father.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Cover_art_of_The_Wanderer_by_Sharon_Creech.jpeg/220px-Cover_art_of_The_Wanderer_by_Sharon_Creech.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "genreId": 15,
+      "description": "A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. Thus the stage is set for one of the most telling satiric fables ever penned—a razor-edged fairy tale for grown-ups that records the evolution from revolution against tyranny to a totalitarianism just as terrible.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Animal_Farm_-_1st_edition.jpg/220px-Animal_Farm_-_1st_edition.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Leviathon Wakes",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "Leviathan Wakes is set in a future in which humanity has colonized much of the Solar System. Earth, governed by the United Nations, and the Martian Congressional Republic act as competing superpowers, maintaining an uneasy military alliance in order to exert dual hegemony over the peoples of the Asteroid belt, known as 'Belters'. Belters, whose bodies tend to be thin and elongated owing to their low-gravity environments, carry out the gritty, blue-collar work that provides the system with essential natural resources, but are largely marginalized by the rest of the Solar System polity. This class conflict particularly manifests itself in The Outer Planets Alliance (OPA), a network of loosely-aligned militant groups, which seeks to combat the Belt's exploitation at the hands of the 'Inners', who, in turn, have collectively branded the OPA a terrorist organization.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Leviathan_Wakes.jpg/220px-Leviathan_Wakes.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Caliban's War",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "Eighteen months after the events of Leviathan Wakes, the polities of the solar system remain in precarious balance as they watch unknowable events unfold on Venus. Earth and Mars are still poised for battle, however, not recognizing the dire warning that the Eros Incident held for humanity.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Calibans_War.jpg/220px-Calibans_War.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Abaddon's Gate",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "For generations, the solar system—Mars, the Moon, the Asteroid Belt—was humanity's great frontier. Until now. The alien artifact working through its program under the clouds of Venus has appeared in Uranus's orbit, where it has built a massive gate that leads to a starless dark.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/James_S.A._Corey_-_Abaddon%27s_Gate.jpeg/220px-James_S.A._Corey_-_Abaddon%27s_Gate.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Cibola Burn",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "Cibola Burn sees the crew of the Rocinante on a new frontier, as the rush to colonize the new planets threatens to outrun law and order and give way to war and chaos.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Cibola_Burn.jpg"
+    }
+  ]
+}
