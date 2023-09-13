@@ -117,6 +117,12 @@
       "name": "Sophia Brown",
       "email": "sophia.brown@example.com",
       "phone": "2028675309"
+    },
+    {
+      "email": "Spencer.serv@gmail.com",
+      "name": "Spencer Norris",
+      "phone": "6155000210",
+      "id": 7
     }
   ],
   "books": [
@@ -167,6 +173,22 @@
       "genreId": 3,
       "description": "Cibola Burn sees the crew of the Rocinante on a new frontier, as the rush to colonize the new planets threatens to outrun law and order and give way to war and chaos.",
       "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Cibola_Burn.jpg"
+    },
+    {
+      "title": "Eragon",
+      "author": "Christopher Paolini",
+      "genreId": 4,
+      "description": "The book tells the story of a farm boy named Eragon, who finds a mysterious stone in the mountains. The stone is revealed to be a dragon egg, and a dragon he later names Saphira hatches from it. When the evil King Galbatorix finds out about the egg, he sends monstrous servants to acquire it, making Eragon and Saphira flee from their hometown with a storyteller named Brom. Brom, an old member of an extinct group called the Dragon Riders, teaches Eragon about 'The Ways of the Rider.'",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Eragon_book_cover.png/200px-Eragon_book_cover.png",
+      "id": 7
+    },
+    {
+      "title": "Nemesis Games",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "The Rocinante is down for long-term maintenance after the events of Cibola Burn. Three crew members decide to take care of some personal business during the down time. Amos Burton heads to Earth when he learns someone important from his past there has died, both to pay his formal respects, and to make sure no foul play was involved. Alex Kamal heads to Mars in the hopes of getting closure with his ex-wife and to see Bobbie while there. Naomi Nagata heads to Ceres station, when she receives a message that her son Filip is in trouble. While Jim Holden supervises repairs to the Rocinante, he is enlisted by Monica Stuart to investigate disappearing colony ships.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Nemesis_Games.jpg",
+      "id": 8
     }
   ]
 }
