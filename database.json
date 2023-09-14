@@ -189,6 +189,58 @@
       "description": "The Rocinante is down for long-term maintenance after the events of Cibola Burn. Three crew members decide to take care of some personal business during the down time. Amos Burton heads to Earth when he learns someone important from his past there has died, both to pay his formal respects, and to make sure no foul play was involved. Alex Kamal heads to Mars in the hopes of getting closure with his ex-wife and to see Bobbie while there. Naomi Nagata heads to Ceres station, when she receives a message that her son Filip is in trouble. While Jim Holden supervises repairs to the Rocinante, he is enlisted by Monica Stuart to investigate disappearing colony ships.",
       "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Nemesis_Games.jpg",
       "id": 8
+    },
+    {
+      "title": "Babylon's Ashes",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "In Bablyon's Ashes, the so-called Free Navy, made up of Belters using stolen military ships, has been growing ever bolder. After the crippling attacks on Earth and the Martian Navy, the Free Navy turns its attention to the colony ships headed for the ring gates and the worlds beyond. The relatively defenseless ships are left to fend for themselves, as neither Earth nor Mars is powerful enough to protect them. James Holden and the crew of the Rocinante are called upon once again by what remains of the UN and Martian governments to go to Medina Station, now in the hands of the Free Navy, in the ring station. On the other side of the rings, an alien threat is growing: the Free Navy may be the least of humanity's problems.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Babylons_Ashes.jpg",
+      "id": 9
+    },
+    {
+      "title": "Persepolis Rising",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "Twenty-eight years have passed since the events of Babylon's Ashes and Earth is back on its feet after the attack that crippled the planet in Nemesis Games. The crew of the aging gunship Rocinante are still together, working contracts for the Transport Union, who have control of the Ring station and the 1,300 worlds the gates lead to. After receiving a morally dubious order from Camina Drummer, who now leads the Transport Union, Holden and Naomi decide to retire and hand over the Rocinante's captaincy to Bobbie. No one has heard from Admiral Duarte and his rogue fleet in the thirty years since they broke away from the Martian Congressional Republic Navy, until now. They have spent their time in the Laconia system building an advanced fleet using leftover technology from the protomolecule creators. The Laconians send out a message announcing the end of their self-imposed exile before sending an enormous new battleship called 'Heart of the Tempest' through their gate to capture Medina station and install a new governor. The battleship destroys the railgun emplacements installed by the Free Navy on the ring-gate station using a new magnetic weapon that can disintegrate matter at the atomic level.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Persepolis_Rising.jpg/220px-Persepolis_Rising.jpg",
+      "id": 10
+    },
+    {
+      "title": "Tiamat's Wrath",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "Following the events of Persepolis Rising, James Holden is a captive on Laconia, allowed to roam the grounds of High Consul Winston Duarte’s palace but with little other freedom. He pays his respects to Chrisjen Avasarala, who died four months previously, and talks with her granddaughter and Camina Drummer, former president of the defunct Transport Union.\n\nThrough another of the Ring gates, Elvi Okoye, her husband Fayez and several other scientists are sent on a Laconian mission to the “dead worlds”, systems past the ring gates which have no habitable worlds. They find a planet-size green diamond which interacts strangely with their sample of active protomolecule but are forced by the commander to move on to the next system before they can adequately probe it. They arrive to find a neutron star pushed to the edge of the Tolman-Oppenheimer-Volkov limit, with no other matter in the area. The Laconian commander reveals their plan to send an antimatter-laden ship through the ring gates to attack the creatures which have been seen “eating” ships.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Tiamats_Wrath.jpg/220px-Tiamats_Wrath.jpg",
+      "id": 11
+    },
+    {
+      "title": "Leviathan Falls",
+      "author": "James S. A. Corey",
+      "genreId": 3,
+      "description": "Following the events of Tiamat's Wrath, Winston Duarte, seemingly awakening from his semi-catatonic state, projects himself into Trejo's mind, who is currently reconquering the Sol system for the Laconian Empire. Duarte expresses gratitude for Trejo's efforts in preserving the Empire and admits they had been thinking too small in their empire-building vision. Duarte then vanishes, prompting Trejo to order a return to Laconia. Upon arrival, Duarte has already disappeared from the state building, and Colonel Aliana Tanaka is tasked to locate him with the highest level of clearance.\n\nTanaka's search leads her to the cave Amos Burton once inhabited, where she deduces that Duarte likely left in an alien ship. She decides to use Teresa as bait to lure Duarte and begins investigating a girls' boarding school on a colony world as a possible location for Teresa. Meanwhile, Elvi and her team, along with the immortal children Xan and Cara, are investigating the Adro Diamond. As they dive into the library using the catalyst, some of Cara's experiences bleed into Amos, who has been similarly altered.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Leviathan_Falls.jpg",
+      "id": 12
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "bookId": 5,
+      "userId": 2,
+      "text": "This book was awesome from start to finish. Very good detail!"
+    },
+    {
+      "id": 1,
+      "bookId": 2,
+      "userId": 2,
+      "text": "This book was awesome from start to finish. Very good detail!"
+    },
+    {
+      "id": 1,
+      "bookId": 5,
+      "userId": 2,
+      "text": "This book was awesome from start to finish. Very good detail!"
     }
   ]
 }
