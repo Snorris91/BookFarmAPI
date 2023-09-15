@@ -227,20 +227,44 @@
     {
       "id": 1,
       "bookId": 5,
-      "userId": 2,
+      "userId": 1,
       "text": "This book was awesome from start to finish. Very good detail!"
     },
     {
-      "id": 1,
+      "id": 2,
       "bookId": 2,
       "userId": 2,
       "text": "This book was awesome from start to finish. Very good detail!"
     },
     {
-      "id": 1,
+      "id": 3,
       "bookId": 5,
       "userId": 2,
       "text": "This book was awesome from start to finish. Very good detail!"
+    },
+    {
+      "bookId": 2,
+      "userId": 2,
+      "text": "This book is amazing. The Pigs are my Favorite!",
+      "id": 4
+    },
+    {
+      "bookId": 1,
+      "userId": 1,
+      "text": "I love the story, the characters and the setting. Very well planned out!",
+      "id": 5
+    },
+    {
+      "bookId": 7,
+      "userId": 1,
+      "text": "Love the Blue Dragon! Great Story!",
+      "id": 6
+    },
+    {
+      "bookId": 3,
+      "userId": 1,
+      "text": "James is my favorite author of all time! Great story design!",
+      "id": 7
     }
   ]
 }
