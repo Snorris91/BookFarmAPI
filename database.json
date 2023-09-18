@@ -84,13 +84,13 @@
   "users": [
     {
       "id": 1,
-      "name": "John Smith",
+      "name": "Jonathan Smith",
       "email": "john.smith@example.com",
-      "phone": "6165897524"
+      "phone": "6165897523"
     },
     {
       "id": 2,
-      "name": "Jane Doe",
+      "name": "Janeth Doe",
       "email": "jane.doe@example.com",
       "phone": "6158963202"
     },
@@ -231,22 +231,10 @@
       "text": "This book was awesome from start to finish. Very good detail!"
     },
     {
-      "id": 2,
-      "bookId": 2,
-      "userId": 2,
-      "text": "This book was awesome from start to finish. Very good detail!"
-    },
-    {
       "id": 3,
       "bookId": 5,
       "userId": 2,
-      "text": "This book was awesome from start to finish. Very good detail!"
-    },
-    {
-      "bookId": 2,
-      "userId": 2,
-      "text": "This book is amazing. The Pigs are my Favorite!",
-      "id": 4
+      "text": "It WORKS"
     },
     {
       "bookId": 1,
@@ -265,6 +253,18 @@
       "userId": 1,
       "text": "James is my favorite author of all time! Great story design!",
       "id": 7
+    },
+    {
+      "bookId": 2,
+      "userId": 2,
+      "text": "Great book! Excellent Delivery!",
+      "id": 8
+    },
+    {
+      "bookId": 1,
+      "userId": 2,
+      "text": "Great book! Excellent Delivery!",
+      "id": 9
     }
   ]
 }
