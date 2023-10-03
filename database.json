@@ -135,6 +135,18 @@
       "name": "Monir ",
       "phone": "6152326369",
       "id": 9
+    },
+    {
+      "email": "nathan@gmail.com",
+      "name": "nathan Norris",
+      "phone": "6525452525",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "Kevin Duck number1",
+      "email": "WannaBeQual@email.com",
+      "phone": "4548979875"
     }
   ],
   "books": [
@@ -401,6 +413,14 @@
       "description": "Harry Potter",
       "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Harry_Potter_and_the_Goblet_of_Fire_cover.png",
       "id": 33
+    },
+    {
+      "title": "Gardens of the Moon",
+      "author": "Steven Erikson",
+      "genreId": 4,
+      "description": "The novel opens in the 96th year of the Malazan Empire, during the final year of the rule of Emperor Kellanved. Ganoes Paran, age 12, witnesses the sacking of the Mouse Quarter of Malaz City. Paran wants to be a soldier when he grows older, though the veteran soldier Whiskeyjack disapproves.\n",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Three_Gardens_of_the_Moon.jpg/200px-Three_Gardens_of_the_Moon.jpg",
+      "id": 34
     }
   ],
   "reviews": [
@@ -451,6 +471,12 @@
       "userId": 2,
       "text": "This book is AMAZING!!!",
       "id": 12
+    },
+    {
+      "bookId": 4,
+      "userId": 2,
+      "text": "Awesome to the maxxx",
+      "id": 13
     }
   ]
 }
